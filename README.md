@@ -9,7 +9,7 @@ A collection of Claude Code skills for Product Managers and builders.
 Your personal AI knowledge system. Every morning at 5am it:
 - Searches the web for today's **top 10 AI stories**
 - Writes a full structured brief into a **Google Doc** (your growing knowledge repo)
-- Creates a short **Gmail summary draft** linking to the full edition
+- Delivers a **Gmail summary straight to your inbox** — top 3 stories + link to the full edition
 
 Each story includes: plain-English explanation, PM-specific actions, tinkerer experiments, real verified source links, contrarian takes, and a "connected dots" synthesis across all 10 stories.
 
